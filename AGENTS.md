@@ -1,1 +1,1 @@
-This is a 2D Godot 4 project. Always use Godot 4 syntax and static typing. Do NOT attempt to generate or modify .tscn (scene) files or .godot config files after the initial setup. Only write .gd (GDScript) files.
+This is a 2D Godot 4 project using GDScript. Always use Godot 4 syntax, static typing, and node-based architecture. Do NOT attempt to generate or modify .tscn (scene) files or .godot config files after the initial setup. Only write .gd (GDScript) files.
